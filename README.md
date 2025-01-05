@@ -1,6 +1,4 @@
 
-connect with me on these professional accounts !
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -82,6 +80,14 @@ connect with me on these professional accounts !
     <h1>MY PROFESSIONAL CONTACT HUBS</h1>
 
     <table>
+                <tr>
+                        <td><b>LINKS</b></td>
+                        <td><b>PLATTFORMS</b></td>
+                        
+                </tr>
+
+
+        
         <tr>
             <td><a href="https://www.linkedin.com/in/nikhil-rupala-561b6b300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
                 <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="LinkedIn">
