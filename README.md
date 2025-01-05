@@ -1,6 +1,6 @@
 
 connect with me on these professional accounts !
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
